@@ -1,0 +1,21 @@
+unstructured[all-docs]
+langchain
+langchain-openai
+langchain-groq
+faiss-cpu
+tiktoken
+python-dotenv
+langchain-community
+chromadb
+sentence-transformers
+pypdf
+python-docx
+docx2txt
+pandas
+openpyxl
+## Embeddings
+langchain-huggingface
+langchain_classic
+langchain_astradb
+langchain-pinecone
+wikipedia
